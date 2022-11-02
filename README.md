@@ -1,7 +1,7 @@
 # admn5016-finalproject
 Final Project for Applied Machine Learning and Artificial Intelligence course
 
-<b> Team Members: </b> <a href = "github.com/eyas01">Eyas Abu Elhouf </a> & Katrina Ong
+<b> Team Members: </b> <a href = "https://github.com/eyas01">Eyas Abu Elhouf </a> & Katrina Ong
 
 <b> Proposal: </b>
 
