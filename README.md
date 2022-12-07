@@ -9,4 +9,5 @@ We have chosen a dataset containing data about diamond characteristics and their
 We plan to build a machine learning model using Sci-kit Learn to predict diamond price using its corresponding characteristics as the input variables. We will be exploring different prediction models and selecting the model with the best performance.
 
 Link to Dataset: https://github.com/katrinalouiseong/admn5016-finalproject (Eyas is included as a collaborator to the repository)
+
 Source of Dataset: https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices 
